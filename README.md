@@ -1,5 +1,7 @@
-# Koluyoruz Ilk Repo
+# Kodluyoruz Ilk Repo
 Bu repo Kodluyoruz FrontEnd Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet index.html ve bir adet README dosyası barındırıyor.
+
+![]()
 
 # Installation
 Öncelikle projeyi klonlayın.
